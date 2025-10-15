@@ -1,6 +1,6 @@
 # PythonProj
 
-A Python application that reads location data from a CSV file and displays the data points on an interactive map of Ireland.
+A Python application that reads location data from a CSV file and displays the data points on an interactive map of the island of Ireland.
 
 ## Features
 
@@ -67,16 +67,16 @@ The application generates an `ireland_map.html` file in the current directory. O
 
 ## Sample Data
 
-The included `locations.csv` file contains the following Irish locations:
-- Dublin (Capital city)
-- Cork (Second largest city)
-- Galway (West coast city)
-- Limerick (Mid-West city)
-- Waterford (South-East city)
+The included `locations.csv` file contains the following locations on the island of Ireland:
+- Dublin (Capital city of the Republic of Ireland)
+- Cork (Second largest city in the Republic of Ireland)
+- Galway (City on the west coast)
+- Limerick (City in the Mid-West)
+- Waterford (City in the South-East)
 - Killarney (Town in County Kerry)
 - Cliffs of Moher (Famous coastal cliffs)
 - Ring of Kerry (Scenic tourist route)
-- Giant's Causeway (UNESCO World Heritage Site)
+- Giant's Causeway (UNESCO World Heritage Site in Northern Ireland)
 - Blarney Castle (Historic castle near Cork)
 
 ## License
